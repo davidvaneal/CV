@@ -1,57 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Somrat | Hugo Portfolio Template</title>
+    <title>Categories on Biólogo | David Vanegas-Alarcón</title>
     <link>https://davidvaneal.github.io/CV/categories/</link>
-    <description>Recent content in Categories on Somrat | Hugo Portfolio Template</description>
+    <description>Recent content in Categories on Biólogo | David Vanegas-Alarcón</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://davidvaneal.github.io/CV/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>database</title>
-      <link>https://davidvaneal.github.io/CV/categories/database/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://davidvaneal.github.io/CV/categories/database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>https://davidvaneal.github.io/CV/categories/design/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://davidvaneal.github.io/CV/categories/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://davidvaneal.github.io/CV/categories/development/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://davidvaneal.github.io/CV/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>logo</title>
-      <link>https://davidvaneal.github.io/CV/categories/logo/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://davidvaneal.github.io/CV/categories/logo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sketch</title>
-      <link>https://davidvaneal.github.io/CV/categories/sketch/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://davidvaneal.github.io/CV/categories/sketch/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>Marca registrada &amp;copy; 2020 Tema para Hugo por [Somrat](https://github.com/somratpro/somrat)</copyright><atom:link href="https://davidvaneal.github.io/CV/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
