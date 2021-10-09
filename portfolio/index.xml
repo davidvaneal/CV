@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on </title>
+    <link>https://davidvaneal.github.io/CV/portfolio/</link>
+    <description>Recent content in Portfolio on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Marca registrada &amp;copy; 2020 Tema para Hugo por [Somrat](https://github.com/somratpro/somrat)</copyright><atom:link href="https://davidvaneal.github.io/CV/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asociación de Biólogos del Quindío</title>
+      <link>https://davidvaneal.github.io/CV/portfolio/asobioq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidvaneal.github.io/CV/portfolio/asobioq/</guid>
+      <description>Funciones desempeñadas Manejo de recursos financieros de la asociación a través de la cuenta bancaria, velando por el normal recaudo de las cuentas ordinarias y extraordinarias, así como realizar los diferentes pagos que debe hacer la Asociación y que estén previamente ordenados por el presidente, la Junta Directiva o la Asamblea</description>
+    </item>
+    
+    <item>
+      <title>Instituto de Recursos Biológicos Alexander von Humboldt</title>
+      <link>https://davidvaneal.github.io/CV/portfolio/iavh2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidvaneal.github.io/CV/portfolio/iavh2021/</guid>
+      <description>Funciones desempeñadas Realizar actividades de muestreo de coleópteros escarabeidos y larvas de melolóntidos.</description>
+    </item>
+    
+  </channel>
+</rss>
