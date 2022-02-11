@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Experiencia laboral on </title>
+    <title>Experiencia on David Vanegas-Alarcón</title>
     <link>https://davidvaneal.github.io/portfolio/</link>
-    <description>Recent content in Experiencia laboral on </description>
+    <description>Recent content in Experiencia on David Vanegas-Alarcón</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Marca registrada &amp;copy; 2020 Tema para Hugo por [Somrat](https://github.com/somratpro/somrat)</copyright><atom:link href="https://davidvaneal.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://davidvaneal.github.io/portfolio/iavh2021/</guid>
+      <description>Funciones desempeñadas Realizar actividades de muestreo de coleópteros escarabeidos y larvas de melolóntidos.</description>
+    </item>
+    
+    <item>
+      <title>Instituto de Recursos Biológicos Alexander von Humboldt</title>
+      <link>https://davidvaneal.github.io/portfolio/iavh2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidvaneal.github.io/portfolio/iavh2022/</guid>
       <description>Funciones desempeñadas Realizar actividades de muestreo de coleópteros escarabeidos y larvas de melolóntidos.</description>
     </item>
     
