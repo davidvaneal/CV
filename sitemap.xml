@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://davidvaneal.github.io/tags/colombia/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidvaneal.github.io/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidvaneal.github.io/tags/ecolog%C3%ADa/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidvaneal.github.io/tags/escarabajos-copr%C3%B3fagos/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidvaneal.github.io/blog/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://davidvaneal.github.io/tags/publicaci%C3%B3n/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidvaneal.github.io/blog/publicaci%C3%B3n-2022-1/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://davidvaneal.github.io/tags/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidvaneal.github.io/tags/distribuci%C3%B3n/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidvaneal.github.io/tags/ponencia/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://davidvaneal.github.io/blog/ponencia-2019-1/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidvaneal.github.io/tags/poster/</loc>
     <lastmod>2021-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://davidvaneal.github.io/blog/poster-2019-1/</loc>
@@ -32,7 +56,9 @@
   </url><url>
     <loc>https://davidvaneal.github.io/call-to-action/</loc>
   </url><url>
-    <loc>https://davidvaneal.github.io/portfolio/asobioq/</loc>
+    <loc>https://davidvaneal.github.io/portfolio/asobioq2021/</loc>
+  </url><url>
+    <loc>https://davidvaneal.github.io/portfolio/asobioq2022/</loc>
   </url><url>
     <loc>https://davidvaneal.github.io/categories/</loc>
   </url><url>
@@ -49,7 +75,5 @@
     <loc>https://davidvaneal.github.io/service/</loc>
   </url><url>
     <loc>https://davidvaneal.github.io/about/</loc>
-  </url><url>
-    <loc>https://davidvaneal.github.io/tags/</loc>
   </url>
 </urlset>
