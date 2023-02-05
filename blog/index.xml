@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Producción científica on David Vanegas-Alarcón</title>
+    <title>Scientific production on David Vanegas-Alarcón</title>
     <link>https://davidvaneal.github.io/blog/</link>
-    <description>Recent content in Producción científica on David Vanegas-Alarcón</description>
+    <description>Recent content in Scientific production on David Vanegas-Alarcón</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Marca registrada &amp;copy; 2020 Tema para Hugo por [Somrat](https://github.com/somratpro/somrat)</copyright>
+    <language>EN</language>
+    <copyright>Registered trademark &amp;copy; 2020 Theme for Hugo by [Somrat](https://github.com/somratpro/somrat)</copyright>
     <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidvaneal.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publicación Científica</title>
