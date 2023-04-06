@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on David Vanegas-Alarcón</title>
-    <link>https://davidvaneal.github.io/es/categories/</link>
+    <link>https://davidvanegal.github.io/es/categories/</link>
     <description>Recent content in Categories on David Vanegas-Alarcón</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ES</language>
-    <copyright>Marca registrada &amp;copy; 2020 Tema para Hugo por [Somrat](https://github.com/somratpro/somrat)</copyright><atom:link href="https://davidvaneal.github.io/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Marca registrada &amp;copy; 2020 Tema para Hugo por [Somrat](https://github.com/somratpro/somrat)</copyright><atom:link href="https://davidvanegal.github.io/es/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
